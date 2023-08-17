@@ -1,0 +1,4 @@
+[core]
+    remote = data
+['remote "data"']
+    url = s3://dataeaze-intern-space/Anjali/dzops_remote//dzops_dataset
